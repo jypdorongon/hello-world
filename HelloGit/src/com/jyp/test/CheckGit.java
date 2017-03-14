@@ -10,5 +10,6 @@ public class CheckGit {
 		{
 			System.out.println("Welcome " + hero + "!");
 		}
+		//this is a test
 	}
 }
