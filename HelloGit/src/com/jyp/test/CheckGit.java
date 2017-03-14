@@ -6,9 +6,9 @@ public class CheckGit {
 
 		String[] lotr = {"Frodo", "Samwise", "Gandalf", "Legolas", "Aaragorn", "Boromir", "Faramir"};
 		
-		for(int i = 0; i < lotr.length; i++)
+		for(String hero: lotr)
 		{
-			System.out.println("Welcome " + lotr[i] + "!");
+			System.out.println("Welcome " + hero + "!");
 		}
 		
 		System.out.println("You have no power here! ");
