@@ -1,0 +1,12 @@
+10: DEBUG [main] - com.app.log4j.Log4J.main - Test Message
+2016-01-14 23:27:23,191(HH:mm:ss) Line:10 - DEBUG [main] - com.app.log4j.Log4J.main - Test Message
+23:27:42 Line:10 - DEBUG [main] - com.app.log4j.Log4J.main - Test Message
+23:28:51 Line:14 - DEBUG [main] - com.app.log4j.Log4J.main - 
+23:29:56 Line:18 - DEBUG [main] - com.app.log4j.Log4J.main - 
+23:31:03 Line:16 - ERROR [main] - com.app.log4j.Log4J.main - Error shit
+23:31:59 Line:16 - ERROR [main] - com.app.log4j.Log4J.main - Error shit
+java.lang.Exception: Error shit
+	at com.app.log4j.Log4J.main(Log4J.java:14)
+23:32:41 Line:16 - DEBUG [main] - com.app.log4j.Log4J.main - Error shit
+java.lang.Exception: Error shit
+	at com.app.log4j.Log4J.main(Log4J.java:14)
