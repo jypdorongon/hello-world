@@ -11,6 +11,7 @@ public class CheckGit {
 			System.out.println("Welcome " + hero + "!");
 		}
 		
+		//this is a test		
 		System.out.println("You have no power here! ");
 	}
 }
